@@ -25,7 +25,7 @@ I specialize in building secure, intuitive **SaaS solutions for the Healthcare i
 ---
 
 ### ⚡ What I'm working on
-- Refining **J-Vision**, a BI dashboard for healthcare financials.
+- Refining **J-Hub**, a central Hub for my J-SaaS solutions.
 - Building **SSO (Single Sign-On)** architectures for multi-tenant applications.
 - Experimenting with **Python automation** for ERP systems.
 
