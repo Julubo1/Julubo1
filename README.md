@@ -1,7 +1,8 @@
 # Hi there, I'm Julubo 👋
 
-### Full Stack Developer & SaaS Architect
-I specialize in building secure, intuitive **SaaS solutions for the Healthcare industry**. My passion lies in combining robust backend logic with "Zen-like" user interfaces using Glassmorphism design principles.
+### Healthcare SaaS Builder | AI-Assisted Developer
+I create SaaS tools for healthcare, mixing hands-on coding with AI assistance. I care about security, clean UI, and solving real problems—not titles. I focus on creating secure, intuitive tools with modern UI aesthetics like Glassmorphism.
+
 
 ---
 
