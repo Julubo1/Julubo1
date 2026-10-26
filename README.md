@@ -29,8 +29,5 @@ I focus on creating secure healthcare SaaS tools, automating data workflows, and
 - 🏗️ Refining **J-Hub**, a central Hub for my custom SaaS solutions.
 - 🔐 Building **SSO (Single Sign-On)** architectures for multi-tenant applications.
 - 🐍 Experimenting with **Python automation** to streamline EHR and ERP systems.
+- 🐍 Building Dashboards with Streamlit using different system sources.
 
-<br />
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julubo1&show_icons=true&hide_border=true&theme=graywhite" alt="Julubo1's Github Stats" />
-</p>
