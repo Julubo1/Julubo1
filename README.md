@@ -9,7 +9,6 @@ I create SaaS tools for healthcare, mixing hands-on coding with AI assistance. I
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -21,7 +20,7 @@ I create SaaS tools for healthcare, mixing hands-on coding with AI assistance. I
 | :--- | :--- | :--- |
 | **[🔐 GlassAuth Starter Kit](https://github.com/Julubo1/GlassAuth-PHP)** | A secure, lightweight PHP authentication boilerplate featuring a modern Glassmorphism UI. Includes PDO security & session management. | `PHP` `Security` `Tailwind` |
 | **[🏥 Healthcare Data Gen](https://github.com/Julubo1/Healthcare-Synthetic-Data-Gen)** | Python tool to generate realistic, GDPR-proof synthetic healthcare datasets (Patients, Episodes, Activities) for BI testing. | `Python` `Faker` `Pandas` |
-| **[🚀 J-Hub SaaS] | *Private Source.* My flagship enterprise ecosystem including J-Desk (Service), J-Core (Contracts) and J-Vision (BI). | `SaaS` `Enterprise` |
+| **[🚀 J-Hub SaaS] | *Private Source.* My hobby enterprise ecosystem including J-Desk (Service), J-Core (Contracts) and J-Vision (BI). | `SaaS` `Enterprise` |
 
 ---
 
